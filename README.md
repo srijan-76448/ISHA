@@ -50,7 +50,7 @@ As this project is still under development, here are some planned features:
 If you want, you can also share your ideas with us using this [Google Form](https://forms.gle/BVj6GWdCGfhshh5c7).
 
 ## License and Copyright
-Also see our [LICENSE](LICENSE) and [COPYRIGHT](COPYRIGHT).
+Also see our [LICENSE](LICENSE) and [Gitignore](.gitignore).
 
 ## Contact us
 You can contact us using these following links:
