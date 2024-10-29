@@ -13,7 +13,7 @@
 * **Interactive Conversation:** Engage in natural language conversations in several languages.
 * **Creative Assistance:** Helps with creative endeavors, like writing stories, poems, or scripts.
 * **Artificial Emotional Intelligence:** Recognizes and responds to your emotions, offering support and understanding.
-* **Voice Cloneing:** Can mimic your voice and respond to your voice commands.
+* **Voice Cloning:** Can mimic your voice and respond to your voice commands.
 
 ## Getting Started
 1. **Prerequisites:** 
@@ -66,5 +66,5 @@ If you like this project, please consider [donating](https://buymeacoffee.com/sr
 ## Thanks Giving
 Thanks to all the people who contributed to this project. Some of them are:
 - [Srijan Bhattacharyya](https://github.com/srijan-76448)
-- [Arin Karmakar]()
+- [Arin Karmakar](https://github.com/GODL0111)
 - [Saikat Das]()
