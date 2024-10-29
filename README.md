@@ -24,8 +24,8 @@
         - [Discord]()
         - [Telegram]()
         - [WhatsApp]()
-        - [Twitter]()
-        - [LinkedIn]()
+        <!-- - [Twitter]()
+        - [LinkedIn]() -->
 
 2. **Installation:**
     - If you want to use our App to interact with ISHA, please follow these links according to your OS.
