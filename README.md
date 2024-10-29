@@ -24,6 +24,7 @@
         - [Discord]()
         - [Telegram]()
         - [WhatsApp]()
+        - [IRC]()
         <!-- - [Twitter]()
         - [LinkedIn]() -->
 
