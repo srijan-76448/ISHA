@@ -61,10 +61,10 @@ You can contact us using these following links:
 - [Gmail](mailto:srijan.76448@gamil.com)
 - [LinkedIn](https://www.linkedin.com/in/srijan-76448/)
 
-In case, if you face any issues, feel free to inform us by fill up this [Google Form](https://forms.gle/BVj6GWdCGfhshh5c7).
+In case, if you face any issues, feel free to inform us by fill up this [Google Form]().
 
 ## Support us
-Please give us your feedback by using this [Google Form]().
+Please give us your feedback by using this [Google Form](https://forms.gle/BVj6GWdCGfhshh5c7).
 If you like this project, please consider [donating](https://buymeacoffee.com/srijan.76448) to us.
 
 ## Thanks Giving
