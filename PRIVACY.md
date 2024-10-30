@@ -27,9 +27,9 @@
 * However, no internet-based system is completely secure. We cannot guarantee the security of your information.
 
 ## Children's Privacy
-* ISHA is not intended for children.
+* ISHA is not intended for children **below 5 years**.
 * We do not knowingly collect personal information from children.
-* If you are a parent or guardian and you believe your child has provided us with personal information, please contact us.
+* If you are a parent or guardian and you believe your child has provided us with personal information, you can modify them using [these commands]() while chatting with ISHA.
 
 ## Changes to this Privacy Policy
 * We may update this Privacy Policy from time to time.
