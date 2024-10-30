@@ -19,8 +19,8 @@
 
 ## Your Choices
 * **You can choose not to provide any optional information.**
-* **You can access and modify your personal information through (describe the access method if applicable).**
-* **You can request to have your data deleted by contacting us (provide contact information).**
+* **You can access and modify your personal information by [these commands]() while chatting with ISHA.**
+* **You can request to have your data deleted by deleting your account.**
 
 ## Security
 * We take reasonable steps to protect your information from unauthorized access, disclosure, alteration, or destruction.
