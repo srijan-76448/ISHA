@@ -64,7 +64,7 @@ You can contact us using these following links:
 In case, if you face any issues, feel free to inform us by fill up this [Google Form](https://forms.gle/BVj6GWdCGfhshh5c7).
 
 ## Support us
-Please give us your feedback by using this [Google Form](https://forms.gle/BVj6GWdCGfhshh5c7).
+Please give us your feedback by using this [Google Form]().
 If you like this project, please consider [donating](https://buymeacoffee.com/srijan.76448) to us.
 
 ## Thanks Giving
