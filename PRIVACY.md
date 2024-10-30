@@ -37,7 +37,7 @@
 * Your continued use of ISHA after we post any changes constitutes your acceptance of the new Privacy Policy.
 
 ## Contact Us
-If you have any questions about this Privacy Policy, please contact us at via [mail](mailto:srijan.76448@gmail.com).
+If you have any questions about this Privacy Policy, please contact us at via [email](mailto:srijan.76448@gmail.com).
 
 <!-- **Effective Date:** [Today's Date] -->
 
