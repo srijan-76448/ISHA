@@ -1,0 +1,6 @@
+Commands -> Description
+--------    -----------
+/start -> Initializes the bot
+/help -> Shows this manual
+/about -> Shows information about this bot
+/mod -> Suggest modifications for the bot
