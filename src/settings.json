@@ -1,0 +1,22 @@
+{
+    "about": {
+        "name": "ISHA",
+        "full-name": "Interractive Smart Home Assistant",
+        "version": "BETA 0.0.1",
+        "phone-number": "+91 94336 42433"
+    },
+    "Dev-Mood": true,
+    "verbose": true,
+    "genAI-config": {
+        "GeminiAI": {
+            "temperature": 1,
+            "top_p": 0.95,
+            "top_k": 64,
+            "max_output_tokens": 8192,
+            "response_mime_type": "text/plain"
+        }
+    },
+    "dependencies": {
+        "google": "google-generativeai"
+    }
+}
