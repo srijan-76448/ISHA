@@ -1,8 +1,8 @@
 # ISHA (Interactive Smart Home Assistant)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=srijan-76448.ISHA)
-![version](https://img.shields.io/badge/Version-BETA%200.0.1-darkblue)
-![status](https://img.shields.io/badge/Status-Under%20Development-darkred)
+![](https://visitcount.itsvg.in/api?style=plastic&id=srijan-76448.ISHA&icon=0&color=1)
+![](https://img.shields.io/badge/Version-BETA%200.0.1-darkblue?style=plastic)
+![](https://img.shields.io/badge/Status-Under%20Development-darkred?style=plastic)
 
 ## Description
 **ISHA** is an innovative AI assistant designed to revolutionize the way you interact with technology. As a versatile and intelligent companion, ISHA can assist you with a wide range of tasks, from simple queries to complex problem-solving.
