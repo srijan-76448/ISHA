@@ -7,6 +7,11 @@
 ## Description
 **ISHA** is an innovative AI assistant designed to revolutionize the way you interact with technology. As a versatile and intelligent companion, ISHA can assist you with a wide range of tasks, from simple queries to complex problem-solving.
 
+> **NONE**<br>
+> The source code has been shifted to [ISHA-src](https://github.com/srijan-76448/ISHA-src) repository for security purpose. <br>
+> Only members from the dev team of this project can open that repository. <br>
+> If you also want to join the dev team please fill this [Google Form]().
+
 ## Features
 * **Basic Task Automation:** Schedule reminders, control smart home devices, etc...
 * **Information Retrieval:** Answer factual questions, provide summaries of topics, etc...
