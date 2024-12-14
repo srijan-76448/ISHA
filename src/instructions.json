@@ -1,6 +1,0 @@
-{
-    "$NAME": "yes! What can I do for you ?",
-    "hi": "hello",
-    "your name": "$NAME",
-    "Exception": "I am sorry, I am still under development, I don't have any responce to this prompt '$PROMPT'."
-}
