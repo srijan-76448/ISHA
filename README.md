@@ -70,9 +70,3 @@ In case, if you face any issues, feel free to inform us by fill up this [Google 
 ## Support us
 Please give us your feedback by using this [Google Form](https://forms.gle/BVj6GWdCGfhshh5c7).
 If you like this project, please consider [donating](https://buymeacoffee.com/srijan.76448) to us.
-
-## Thanks Giving
-Thanks to all the people who contributed to this project. Some of them are:
-- [Srijan Bhattacharyya](https://github.com/srijan-76448)
-- [Arin Karmakar](https://github.com/GODL0111)
-- [Saikat Das]()
