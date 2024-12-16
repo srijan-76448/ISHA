@@ -9,7 +9,7 @@
 
 > **NONE**<br>
 > The source code has been shifted to [ISHA-src](https://github.com/srijan-76448/ISHA-src) repository for security purpose. <br>
-> Only members from the dev team of this project can open that repository. <br>
+> Only members from the developer team of this project can open that repository. <br>
 > If you also want to join the dev team please fill this [Google Form](https://forms.gle/mAXtZNk4t3UgYvfz8).
 
 ## Features
